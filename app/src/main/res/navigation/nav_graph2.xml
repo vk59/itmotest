@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/question2Fragment">
+
+    <fragment
+        android:id="@+id/question2Fragment"
+        android:name="ru.itmo.test.questions.Question2Fragment"
+        android:label="fragment_question2"
+        tools:layout="@layout/fragment_question2" >
+        <action
+            android:id="@+id/action_question2Fragment_to_question5Fragment"
+            app:destination="@id/question5Fragment"
+            app:enterAnim="@anim/slide_in_right" />
+    </fragment>
+    <fragment
+        android:id="@+id/question5Fragment"
+        android:name="ru.itmo.test.questions.Question5Fragment"
+        android:label="fragment_question5"
+        tools:layout="@layout/fragment_question5" >
+        <action
+            android:id="@+id/action_question5Fragment_to_question4Fragment"
+            app:destination="@id/question4Fragment"
+            app:enterAnim="@anim/slide_in_right" />
+    </fragment>
+    <fragment
+        android:id="@+id/question4Fragment"
+        android:name="ru.itmo.test.questions.Question4Fragment"
+        android:label="Question4Fragment"
+        tools:layout="@layout/fragment_question4" >
+        <action
+            android:id="@+id/action_question4Fragment_to_question6Fragment"
+            app:destination="@id/question6Fragment"
+            app:enterAnim="@anim/slide_in_right" />
+    </fragment>
+    <fragment
+        android:id="@+id/question6Fragment"
+        android:name="ru.itmo.test.questions.Question6Fragment"
+        android:label="Question6Fragment"
+        tools:layout="@layout/fragment_question6" >
+        <action
+            android:id="@+id/action_question6Fragment_to_question9Fragment"
+            app:destination="@id/question9Fragment"
+            app:enterAnim="@anim/slide_in_right" />
+    </fragment>
+    <fragment
+        android:id="@+id/question9Fragment"
+        android:name="ru.itmo.test.questions.Question9Fragment"
+        android:label="Question9Fragment"
+        tools:layout="@layout/fragment_question9" >
+        <action
+            android:id="@+id/action_question9Fragment_to_question8Fragment"
+            app:destination="@id/question8Fragment"
+            app:enterAnim="@anim/slide_in_right" />
+    </fragment>
+    <fragment
+        android:id="@+id/question8Fragment"
+        android:name="ru.itmo.test.questions.Question8Fragment"
+        android:label="Question8Fragment"
+        tools:layout="@layout/fragment_question8" >
+        <action
+            android:id="@+id/action_question8Fragment_to_question13Fragment"
+            app:destination="@id/question13Fragment"
+            app:enterAnim="@anim/slide_in_right"/>
+    </fragment>
+    <fragment
+        android:id="@+id/question13Fragment"
+        android:name="ru.itmo.test.questions.Question13Fragment"
+        android:label="Question13Fragment"
+        tools:layout="@layout/fragment_question13" >
+        <action
+            android:id="@+id/action_question13Fragment_to_question16Fragment"
+            app:destination="@id/question16Fragment"
+            app:enterAnim="@anim/slide_in_right"/>
+    </fragment>
+    <fragment
+        android:id="@+id/question16Fragment"
+        android:name="ru.itmo.test.questions.Question16Fragment"
+        android:label="Question16Fragment"
+        tools:layout="@layout/fragment_question16" >
+        <action
+            android:id="@+id/action_question16Fragment_to_question19Fragment"
+            app:destination="@id/question19Fragment"
+            app:enterAnim="@anim/slide_in_right"/>
+    </fragment>
+    <fragment
+        android:id="@+id/question19Fragment"
+        android:name="ru.itmo.test.questions.Question19Fragment"
+        android:label="Question19Fragment"
+        tools:layout="@layout/fragment_question19" >
+        <action
+            android:id="@+id/action_question19Fragment_to_question11Fragment"
+            app:destination="@id/question11Fragment"
+            app:enterAnim="@anim/slide_in_right"/>
+    </fragment>
+    <fragment
+        android:id="@+id/question11Fragment"
+        android:name="ru.itmo.test.questions.Question11Fragment"
+        android:label="Question11Fragment"
+        tools:layout="@layout/fragment_question11" />
+</navigation>

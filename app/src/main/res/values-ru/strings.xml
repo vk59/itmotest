@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="next">Далее</string>
+    <string name="done">Готово!</string>
+    <string name="exit_title">Выйти</string>
+    <string name="exit_confirm">Вы действительно хотите закончить тест? Весь прогресс будет потерян</string>
+    <string name="nothing_selected">Пожалуйста, выберите ответ</string>
+    <string name="reg_title">Осталось совсем чуть-чуть...</string>
+    <string name="reg_desc">Чтобы узнать свое место в рейтинге и участвовать\n в розыгрыше призов, введите свои контактные данные</string>
+    <string name="name">ФИО</string>
+    <string name="email">Электронная почта</string>
+    <string name="congrat">Поздравляем,</string>
+    <string name="code">Ваш код:</string>
+    <string name="pls_wait">Пожалуйста, подождите...</string>
+    <string name="score">Балл</string>
+    <string name="time">Время</string>
+    <string name="you">это ты</string>
+</resources>

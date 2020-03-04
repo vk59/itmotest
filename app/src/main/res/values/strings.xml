@@ -1,0 +1,214 @@
+<resources>
+    <string name="app_name" translatable="false">ITMO.TEST</string>
+    <string name="next">Next</string>
+    <string name="done">Done!</string>
+    <string name="go" translatable="false">Go!</string>
+    <string name="exit_title">Exit</string>
+    <string name="exit_confirm">Would you like to finish this test? All progress will be lost</string>
+    <string name="nothing_selected">Please select an answer</string>
+
+    <string name="question_1_title" translatable="false">Проверьте, насколько хорошо вы разбираетесь в экзотических языках программирования, попытавшись узнать их по программе «Hello, World!».</string>
+    <string name="question_1_content" translatable="false">HAI\nCAN HAS STDIO?\nVISIBLE &quot;HAI WORLD!&quot;\nKTHXBYE</string>
+    <string name="question_1_answer1" translatable="false">Так, всё большими буквами, кажется, я видел такое в древних манускриптах. Это наверняка COBOL</string>
+    <string name="question_1_answer2" translatable="false">LOLCODE</string>
+    <string name="question_1_answer3" translatable="false">Больше похоже на сообщения в мессенджере, чем на код программы. А ведь есть же язык, основанный на обмене сообщениями. Это Smalltalk</string>
+    <string name="question_1_answer4" translatable="false">О, довольно простой и понятный код, не то что эти ваши ассемблеры. Наверное, это Java</string>
+    <string name="question_1_answer1_hint" translatable="false">Это потому что он говорит КАПСОМ? Нет, это язык LOLCODE, основанный на интернет-сленге.</string>
+    <string name="question_1_answer2_hint" translatable="false">Да, это именно он. Язык, основанный на популярном в определённых кругах интернет-сленге. Так, к примеру, оператор if в этом языке выглядит как O RLY?, а комментарий начинается с BTW. Да, капс обязателен. Ну а назван он в честь интернет-мемов lolcat, фотографий смешных котиков с надписями, содержащими намеренные грубые грамматические ошибки.</string>
+    <string name="question_1_answer3_hint" translatable="false">Вот и нет, этот язык называется LOLCODE. От интернет общения он получил не структуру, а специфический сленг.</string>
+    <string name="question_1_answer4_hint" translatable="false">А где же скобочки? И почему всё капсом, Java же чувствителен к регистру. А это LOLCODE.</string>
+
+    <string name="question_2_title" translatable="false">Какой из этих языков программирования появился в 2018 году?</string>
+    <string name="question_2_answer1" translatable="false">Dart</string>
+    <string name="question_2_answer2" translatable="false">Rockstar</string>
+    <string name="question_2_answer3" translatable="false">Motes</string>
+    <string name="question_2_answer4" translatable="false">Ring</string>
+    <string name="question_2_answer1_hint" translatable="false">Dart появился в 2011 году. Впрочем, в 2018 вышел Dart 2. А правильный ответ — Rockstar. Это динамически типизированный язык для создания программ, похожих на песни 80-х годов.</string>
+    <string name="question_2_answer2_hint" translatable="false">Да, программист Дилан Битти разработал этот динамически типизированный язык для создания программ, похожих на песни 80-х годов. Не программа, а песня!</string>
+    <string name="question_2_answer3_hint" translatable="false">Этот чудесный язык для программирования на эмодзи появился в 2017 году. А в 2018 программист Дилан Битти разработал Rockstar — динамически типизированный язык для создания программ, похожих на песни 80-х годов.</string>
+    <string name="question_2_answer4_hint" translatable="false">Нет, этот мультипарадигмальный язык с динамической типизацией появился в 2016 году. А в 2018 программист Дилан Битти разработал Rockstar — динамически типизированный язык для создания программ, похожих на песни 80-х годов.</string>
+
+    <string name="question_3_title" translatable="false">Что (пока) не умеет делать нейронная сеть?</string>
+    <string name="question_3_answer1" translatable="false">Разгадывать капчу</string>
+    <string name="question_3_answer2" translatable="false">Объяснять причины своих действий</string>
+    <string name="question_3_answer3" translatable="false">Распознавать оптические иллюзии</string>
+    <string name="question_3_answer4" translatable="false">Писать себя</string>
+    <string name="question_3_answer1_hint" translatable="false">А вот и может! Нейросеть распознаёт текстовую капчу за 0,05 секунды, не требуя больших мощностей. Но распознать оптическую иллюзию у ИИ пока не получается.</string>
+    <string name="question_3_answer2_hint" translatable="false">Международная группа исследователей и команда Facebook AI Research научили нейросеть и этому. А вот распознавать оптические иллюзии нейросеть пока не может.</string>
+    <string name="question_3_answer3_hint" translatable="false">Да, с этим у нейросетей пока проблемы.</string>
+    <string name="question_3_answer4_hint" translatable="false">Нет, в 2018 году нейросеть научилась писать себя на Java. А вот с оптическими иллюзиями у нейросетей пока проблемы.</string>
+
+    <string name="question_4_title" translatable="false">Что такое «динамическое программирование»?</string>
+    <string name="question_4_answer1" translatable="false">Программирование с использованием динамической памяти</string>
+    <string name="question_4_answer2" translatable="false">Программирование в быстром темпе</string>
+    <string name="question_4_answer3" translatable="false">Стиль программирования, названный так по имени автора</string>
+    <string name="question_4_answer4" translatable="false">Метод решения задач</string>
+    <string name="question_4_answer1_hint" translatable="false">Нет, динамическое программирование — это метод решения задач путём их разбиения на более простые подзадачи.</string>
+    <string name="question_4_answer2_hint" translatable="false">Нет, динамическое программирование — это метод решения задач путём их разбиения на более простые подзадачи.</string>
+    <string name="question_4_answer3_hint" translatable="false">Нет, динамическое программирование — это метод решения задач путём их разбиения на более простые подзадачи.</string>
+    <string name="question_4_answer4_hint" translatable="false">Верно, это метод решения задач путём их разбиения на более простые подзадачи.</string>
+
+    <string name="question_5_title" translatable="false">Буратино дали три яблока. Два он съел. Сколько яблок осталось у Буратино?</string>
+    <string name="question_5_answer1" translatable="false">Одно</string>
+    <string name="question_5_answer2" translatable="false">У него не осталось яблок</string>
+    <string name="question_5_answer3" translatable="false">Никто не знает наверняка</string>
+    <string name="question_5_answer1_hint" translatable="false">А вот и нет! Вы же не знаете, сколько яблок у него было изначально. Мораль — обнуляйте переменные.</string>
+    <string name="question_5_answer2_hint" translatable="false">Даже если считать, что изначально у него не было яблок, всё равно 3-2=1. У вас всё в порядке с математикой?</string>
+    <string name="question_5_answer3_hint" translatable="false">Правильно. Переменную забыли обнулить. Мало ли сколько у него было яблок изначально.</string>
+
+    <string name="question_6_title" translatable="false">Проверьте, насколько хорошо вы разбираетесь в экзотических языках программирования, попытавшись узнать их по программе «Hello, World!».</string>
+    <string name="question_6_content" translatable="false">(=&lt;`:9876Z4321UT.-Q+*)M’&amp;%$H»!~}|Bzy?=|{z]KwZY44Eq0/{mlk**hKs_dG5[m_BA{?-Y;;Vb\'rR5431M}/.zHGwEDCBA@986543W10/.R,+O&lt;</string>
+    <string name="question_6_answer1" translatable="false">О, а вот тут много всяких символов. Это Perl</string>
+    <string name="question_6_answer2" translatable="false">Много скобок, но в отличие от LISP, они не только круглые. Судя по чередованию больших и маленьких букв, язык чувствителен к регистру. Это Glass</string>
+    <string name="question_6_answer3" translatable="false">Одна строка символов без пробелов — BIT</string>
+    <string name="question_6_answer4" translatable="false">Выглядит так, будто кто-то старается нас запутать. Если это и в самом деле язык программирования, то какой-нибудь Malbolge</string>
+    <string name="question_6_answer1_hint" translatable="false">Нет, это не Perl. Маловато $. На самом деле это Malbolge — один из сложнейших языков.</string>
+    <string name="question_6_answer2_hint" translatable="false">Нет, это Malbolge, язык, ориентированный на троичную систему счисления. Glass тоже не самый простой язык, но вывод в нём организован более очевидно.</string>
+    <string name="question_6_answer3_hint" translatable="false">Близко, но нет, в BIT программа будет содержать непрерывную последовательность букв в верхнем регистре, без символов. Эта программа — на Malbolge.</string>
+    <string name="question_6_answer4_hint" translatable="false">Да, это верный ответ. Название восьмого круга ада по Данте. Этот язык разработан так, чтобы по максимуму усложнить жизнь кодеру.</string>
+
+    <string name="question_7_title" translatable="false">На прямой отмечены четыре точки. Сколько всего отрезков на прямой?</string>
+    <string name="question_7_answer1" translatable="false">3</string>
+    <string name="question_7_answer2" translatable="false">4</string>
+    <string name="question_7_answer3" translatable="false">5</string>
+    <string name="question_7_answer4" translatable="false">6</string>
+    <string name="question_7_answer1_hint" translatable="false">Неправильно!\nУпорядочим отрезки c помощью их левых концов. Тогда количество отрезков, начинающихся в данной точке, равно количеству точек справа. Справа от первой точки три точки, справа от второй две и справа от третьей одна. Значит, всего 6 отрезков.</string>
+    <string name="question_7_answer2_hint" translatable="false">Неправильно!\nУпорядочим отрезки c помощью их левых концов. Тогда количество отрезков, начинающихся в данной точке, равно количеству точек справа. Справа от первой точки три точки, справа от второй две и справа от третьей одна. Значит, всего 6 отрезков.</string>
+    <string name="question_7_answer3_hint" translatable="false">Неправильно!\nУпорядочим отрезки c помощью их левых концов. Тогда количество отрезков, начинающихся в данной точке, равно количеству точек справа. Справа от первой точки три точки, справа от второй две и справа от третьей одна. Значит, всего 6 отрезков.</string>
+    <string name="question_7_answer4_hint" translatable="false">Правильно!\nУпорядочим отрезки c помощью их левых концов. Тогда количество отрезков, начинающихся в данной точке, равно количеству точек справа. Справа от первой точки три точки, справа от второй две и справа от третьей одна. Значит, всего 6 отрезков.</string>
+
+    <string name="question_8_title" translatable="false">При каких значениях n выражение ((n &amp; (n - 1)) == 0) истинно?</string>
+    <string name="question_8_answer1" translatable="false">при n >= 0</string>
+    <string name="question_8_answer2" translatable="false">при n % 2 == 0</string>
+    <string name="question_8_answer3" translatable="false">если n > 0, то при нечетных значениях n, а если n &lt;= 0, то при четных значениях n</string>
+    <string name="question_8_answer4" translatable="false">при n == 0 или n равном целым степеням двойки</string>
+    <string name="question_8_answer1_hint" translatable="false">Неправильно!\nВыражение истинно при n == 0 или n равном целым степеням двойки</string>
+    <string name="question_8_answer2_hint" translatable="false">Неправильно!\nВыражение истинно при n == 0 или n равном целым степеням двойки</string>
+    <string name="question_8_answer3_hint" translatable="false">Неправильно!\nВыражение истинно при n == 0 или n равном целым степеням двойки</string>
+    <string name="question_8_answer4_hint" translatable="false">Правильно!\nВыражение истинно при n == 0 или n равном целым степеням двойк</string>
+
+    <string name="question_9_title" translatable="false">Что из перечисленного является преимуществом объектно-ориентированного подхода к программированию перед структурным программированием:</string>
+    <string name="question_9_answer1" translatable="false">В ООП не используются функции и процедуры</string>
+    <string name="question_9_answer2" translatable="false">ООП позволяет объединять состояние объектов и их поведение</string>
+    <string name="question_9_answer3" translatable="false">ООП не поддерживает повторное использование компонентов</string>
+    <string name="question_9_answer4" translatable="false">ООП поддерживает разработку программ «сверху-вниз»</string>
+    <string name="question_9_answer5" translatable="false">ООП не поддерживает понятие абстракции</string>
+    <string name="question_9_answer1_hint" translatable="false">Неправильно!\nВ ООП используются функции и процедуры</string>
+    <string name="question_9_answer2_hint" translatable="false">ООП позволяет объединять состояние объектов и их поведение. Структурное программирование, равно как и объектно-ориентированное, позволяет проектировать и разрабатывать программы "сверху-вниз", так что этот вариант не является правильным.</string>
+    <string name="question_9_answer3_hint" translatable="false">Неправильно!\nООП поддерживае повторное использование компонентов</string>
+    <string name="question_9_answer4_hint" translatable="false">Неправильно!\nООП позволяет объединять состояние объектов и их поведение - это верный ответ</string>
+    <string name="question_9_answer5_hint" translatable="false">Неправильно!\nООП поддерживает абстракции</string>
+
+    <string name="question_10_title" translatable="false">Словом «агрегация» (включение, композиция) точнее всего описывается отношение между … :</string>
+    <string name="question_10_answer1" translatable="false">…вами и вашими друзьями</string>
+    <string name="question_10_answer2" translatable="false">…вашей комнатой и комнатой вашего соседа</string>
+    <string name="question_10_answer3" translatable="false">…вами и вашими руками</string>
+    <string name="question_10_answer4" translatable="false">…вашей комнатой и мебелью в ней</string>
+    <string name="question_10_answer1_hint" translatable="false">Неправильно!\nМежду вашей комнатой и мебелью</string>
+    <string name="question_10_answer2_hint" translatable="false">Неправильно!\nМежду вашей комнатой и мебелью</string>
+    <string name="question_10_answer3_hint" translatable="false">Неправильно!\nМежду вашей комнатой и мебелью</string>
+    <string name="question_10_answer4_hint" translatable="false">Правильно!\nМежду вашей комнатой и мебелью</string>
+
+    <string name="question_11_title" translatable="false">«Do the right thing. Don’t be evil». У какой компании такие девизы?</string>
+    <string name="question_11_answer1" translatable="false">Microsoft</string>
+    <string name="question_11_answer2" translatable="false">Google</string>
+    <string name="question_11_answer3" translatable="false">Toshiba</string>
+    <string name="question_11_answer4" translatable="false">IBM</string>
+    <string name="question_11_answer1_hint" translatable="false">Нет, девиз Microsoft: «Your potential. Our passion». А вот у Google как раз такие слоганы. Впрочем, от «Don’t be evil» компания почти отказалась в 2018 году.</string>
+    <string name="question_11_answer2_hint" translatable="false">Да! Впрочем, от «Don’t be evil» компания почти отказалась в 2018 году.</string>
+    <string name="question_11_answer3_hint" translatable="false">Нет, девиз Toshiba: «In touch with tomorrow». А вот у Google как раз такие слоганы. Впрочем, от «Don’t be evil» компания почти отказалась в 2018 году.</string>
+    <string name="question_11_answer4_hint" translatable="false">Нет, девиз IBM: «Think». А вот у Google как раз такие слоганы. Впрочем, от «Don’t be evil» компания почти отказалась в 2018 году.</string>
+
+    <string name="question_12_title" translatable="false">В конце 80-х в СССР начался бум персональных компьютеров. Одной из самых популярных моделей стал ZX Spectrum, разработанный британской компанией Sinclair Research Ltd. Точнее, его клоны, массово изготовляемые местными фирмами, такие как Спектр-48 на этом фото. А сколько килобайт ОЗУ было у ZX Spectrum?</string>
+    <string name="question_12_answer1" translatable="false">256</string>
+    <string name="question_12_answer2" translatable="false">64</string>
+    <string name="question_12_answer3" translatable="false">640</string>
+    <string name="question_12_answer4" translatable="false">48</string>
+    <string name="question_12_answer1_hint" translatable="false">Степень двойки? Максимум чисел, которые можно выразить одним байтом? Нет, разные модели могли нести на борту 16, 48 или 128 килобайт ОЗУ.</string>
+    <string name="question_12_answer2_hint" translatable="false">Немного мимо. Самая распространённая модель имела 48 килобайт ОЗУ и 16 — ПЗУ, что в сумме и составляло 64. Были также модели с 16 и 128 килобайтами ОЗУ.</string>
+    <string name="question_12_answer3_hint" translatable="false">«640 килобайт хватит всем»? Нет, на самом деле разные модели могли нести на борту 16, 48 или 128 килобайт ОЗУ.</string>
+    <string name="question_12_answer4_hint" translatable="false">Так и есть. Самая распространённая модель имела 48 килобайт ОЗУ и 16 — ПЗУ, что в сумме и составляло 64. Были также модели с 16 и 128 килобайтами ОЗУ.</string>
+
+    <string name="question_13_title" translatable="false">Современная IT-индустрия практически немыслима без сети Internet. Но в конце XX века доступ в глобальную сеть не был таким простым, как сейчас. На фото — модем Courier V фирмы US Robotics. Как думаете, какую скорость передачи данных он поддерживал?</string>
+    <string name="question_13_answer1" translatable="false">8 Кбит/с</string>
+    <string name="question_13_answer2" translatable="false">56 Кбит/с</string>
+    <string name="question_13_answer3" translatable="false">1 Мбит/с</string>
+    <string name="question_13_answer4" translatable="false">10 Мбит/с</string>
+    <string name="question_13_answer1_hint" translatable="false">Ну, не всё так печально, даже диалап-модем вполне мог потянуть 56 Кбит/с, вполне достаточно для сайтов в дизайне того времени — много текста, мало графики. Вот картинки смотреть было чистое мучение.</string>
+    <string name="question_13_answer2_hint" translatable="false">Верно, даже диалап-модем вполне мог потянуть 56 Кбит/с, вполне достаточно для сайтов в дизайне того времени — много текста, мало графики. Вот картинки смотреть было чистое мучение.</string>
+    <string name="question_13_answer3_hint" translatable="false">О нет, это всё же диалап, а не оптоволокно. Может, оно и к лучшему, с учётом расценок на интернет того времени. Максимальная скорость этого модема была 56 Кбит/с, вполне достаточно для сайтов в дизайне того времени — много текста, мало графики. Вот картинки смотреть было чистое мучение.</string>
+    <string name="question_13_answer4_hint" translatable="false">О нет, это всё же диалап, а не оптоволокно. Может, оно и к лучшему, с учётом расценок на интернет того времени. Максимальная скорость этого модема была 56 Кбит/с, вполне достаточно для сайтов в дизайне того времени — много текста, мало графики. Вот картинки смотреть было чистое мучение.</string>
+
+    <string name="question_14_title" translatable="false">Кто спроектировал первую программируемую вычислительную машину?</string>
+    <string name="question_14_answer1" translatable="false">Илон Маск</string>
+    <string name="question_14_answer2" translatable="false">Альберт Энштейн</string>
+    <string name="question_14_answer3" translatable="false">Чарльз Беббидж</string>
+    <string name="question_14_answer4" translatable="false">Братья Райт</string>
+    <string name="question_14_answer5" translatable="false">Братья Гримм</string>
+    <string name="question_14_answer1_hint" translatable="false">Маск, конечно, тот ещё изобретатель, но первая вычислительная машина — дело не его рук, а Чарльза Беббиджа. В 1833 году он задумался о создании программируемой машины, которая бы решала широкий ряд задач (прообраз современного компьютера). Уже в следующем году он начал проектирование и закончил его в 1851.</string>
+    <string name="question_14_answer2_hint" translatable="false">Этого студента звали... Нет, не Альберт Эйнштейн. Правильный ответ — Чарльз Беббидж. В 1833 году он задумался о создании программируемой машины, которая бы решала широкий ряд задач (прообраз современного компьютера). Уже в следующем году он начал проектирование и закончил его в 1851.</string>
+    <string name="question_14_answer3_hint" translatable="false">Правильно, этот английский математик — изобретатель первой аналитической вычислительной машины. В 1833 году он задумался о создании программируемой машины, которая бы решала широкий ряд задач (прообраз современного компьютера). Уже в следующем году он начал проектирование и закончил его в 1851.</string>
+    <string name="question_14_answer4_hint" translatable="false">Нет, эти ребята больше по самолётам, а вычислительную машину изобрёл Чарльз Беббидж. В 1833 году он задумался о создании программируемой машины, которая бы решала широкий ряд задач (прообраз современного компьютера). Уже в следующем году он начал проектирование и закончил его в 1851.</string>
+    <string name="question_14_answer5_hint" translatable="false">Нет, эти ребята больше по сказкам, а вычислительную машину изобрёл Чарльз Беббидж. В 1833 году он задумался о создании программируемой машины, которая бы решала широкий ряд задач (прообраз современного компьютера). Уже в следующем году он начал проектирование и закончил его в 1851.</string>
+
+    <string name="question_15_title" translatable="false">Откуда произошло слово «алгоритм»?</string>
+    <string name="question_15_answer1" translatable="false">Algol, один из первых языков программирования</string>
+    <string name="question_15_answer2" translatable="false">Ритм работы компьютера</string>
+    <string name="question_15_answer3" translatable="false">Имя человека</string>
+    <string name="question_15_answer1_hint" translatable="false">Не угадали. Слово «алгоритм» происходит от имени великого узбекского учёного Мухаммеда аль-Хорезми, жившего в первой половине IX века. Около 825 года он написал сочинение Китаб аль-джебр валь-мукабала («Книга о сложении и вычитании»), из оригинального названия которого происходит слово «алгебра» (аль-джебр — восполнение). В этой книге впервые дал описание придуманной в Индии позиционной десятичной системы счисления.</string>
+    <string name="question_15_answer2_hint" translatable="false">Не угадали. Слово «алгоритм» происходит от имени великого узбекского учёного Мухаммеда аль-Хорезми, жившего в первой половине IX века. Около 825 года он написал сочинение Китаб аль-джебр валь-мукабала («Книга о сложении и вычитании»), из оригинального названия которого происходит слово «алгебра» (аль-джебр — восполнение). В этой книге впервые дал описание придуманной в Индии позиционной десятичной системы счисления.</string>
+    <string name="question_15_answer3_hint" translatable="false">Верно. Слово «алгоритм» происходит от имени великого узбекского учёного Мухаммеда аль-Хорезми, жившего в первой половине IX века. Около 825 года он написал сочинение Китаб аль-джебр валь-мукабала («Книга о сложении и вычитании»), из оригинального названия которого происходит слово «алгебра» (аль-джебр — восполнение). В этой книге впервые дал описание придуманной в Индии позиционной десятичной системы счисления.</string>
+
+    <string name="question_16_title" translatable="false">Что из перечисленного не является единицей измерения информации?</string>
+    <string name="question_16_answer1" translatable="false">Микробайт</string>
+    <string name="question_16_answer2" translatable="false">Килобайт</string>
+    <string name="question_16_answer3" translatable="false">Килобит</string>
+    <string name="question_16_answer4" translatable="false">Кибибит</string>
+    <string name="question_16_answer5" translatable="false">Петабайт</string>
+    <string name="question_16_answer1_hint" translatable="false">Правильно, микробайт не существует.</string>
+    <string name="question_16_answer2_hint" translatable="false">А вот и нет, килобайты существуют, в отличие от микробайт.</string>
+    <string name="question_16_answer3_hint" translatable="false">А вот и нет, килобиты существуют, в отличие от микробайт</string>
+    <string name="question_16_answer4_hint" translatable="false">А вот и нет, кибибиты существуют, в отличие от микробайт</string>
+    <string name="question_16_answer5_hint" translatable="false">А вот и нет, петабайты существуют, в отличие от микробайт</string>
+
+    <string name="question_17_title" translatable="false">Что из нижеперечисленного не относится к структурам данных в информатике?</string>
+    <string name="question_17_answer1" translatable="false">Список</string>
+    <string name="question_17_answer2" translatable="false">Дерево</string>
+    <string name="question_17_answer3" translatable="false">Куст</string>
+    <string name="question_17_answer4" translatable="false">Куча</string>
+    <string name="question_17_answer1_hint" translatable="false">Ну что вы, это вполне себе структура данных, в отличие от куста.</string>
+    <string name="question_17_answer2_hint" translatable="false">Дерево — одна из наиболее широко распространённых структур данных, а вот куст — нет.</string>
+    <string name="question_17_answer3_hint" translatable="false">Именно так!</string>
+    <string name="question_17_answer4_hint" translatable="false">Нет, это структура данных типа дерево. Правильный ответ — куст.</string>
+
+    <string name="question_18_title" translatable="false">Что имеет в виду веб-разработчик, когда говорит «проверил под ослом, всё в порядке»?</string>
+    <string name="question_18_answer1" translatable="false">Это старая глупая традиция перед запуском важного проекта приводить животное в офис и заставлять его пройтись по серверу. Если корпус выдержит, то значит всё пройдёт успешно</string>
+    <string name="question_18_answer2" translatable="false">Он проверил, работает ли сайт в браузере Internet Explorer</string>
+    <string name="question_18_answer3" translatable="false">Разработчик прислал ссылку на сайт обычному пользователю и проверил, что ему удобно им пользоваться</string>
+    <string name="question_18_answer1_hint" translatable="false">Нет такой традиции. Тут речь о браузере. Такое название появилось из-за аббревиатуры Internet Explorer — IE. По созвучию похоже на звук, который издаёт осёл. Ещё есть версия, что всё из-за медлительности браузера</string>
+    <string name="question_18_answer2_hint" translatable="false">Правильно. Такое название появилось из-за аббревиатуры браузера — IE. По созвучию похоже на звук, который издаёт осёл. Ещё есть версия, что всё из-за медлительности браузера.</string>
+    <string name="question_18_answer3_hint" translatable="false">Не-а. Разработчики, конечно, не очень любят пользователей, но ослами их обычно не называют. На самом деле речь о браузере. Такое название появилось из-за аббревиатуры Internet Explorer — IE. По созвучию похоже на звук, который издаёт осёл. Ещё есть версия, что всё из-за медлительности браузера.</string>
+
+    <string name="question_19_title" translatable="false">Кто обнаружил первый в истории баг?</string>
+    <string name="question_19_answer1" translatable="false">Ада Лавлейс</string>
+    <string name="question_19_answer2" translatable="false">Грейс Хоппер</string>
+    <string name="question_19_answer3" translatable="false">Дональд Кнут</string>
+    <string name="question_19_answer4" translatable="false">Ричард Столлман</string>
+    <string name="question_19_answer1_hint" translatable="false">А вот и нет, Ада Лавлейс известна прежде всего созданием описания вычислительной машины, проект которой был разработан Чарльзом Бэббиджем. Составила первую в мире программу.</string>
+    <string name="question_19_answer2_hint" translatable="false">Верно! Во время разработки компьютера Mark II в Университете Гарварда в 1947, её коллеги нашли и удалили мотылька, застрявшего в реле и блокировавшего передачу сигнала; этот случай Хоппер отметила как «дебаггинг» системы</string>
+    <string name="question_19_answer3_hint" translatable="false">А вот и нет, Дональд Кнут — американский учёный в области информатики</string>
+    <string name="question_19_answer4_hint" translatable="false">Не угадали, Ричард Столлман - основатель движения свободного ПО</string>
+
+
+    <string name="checkbox_reg" translatable="false">Согласен на обработку персональных данных</string>
+    <string name="reg_title">One little step left...</string>
+    <string name="reg_desc">To find out your place in the ranking and participate\n in the prize draw, enter your contact details</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="congrat">Congratulations,</string>
+    <string name="code">Your code:</string>
+    <string name="pls_wait">Please wait...</string>
+    <string name="score">Score</string>
+    <string name="time">Time</string>
+    <string name="you">it\'s you</string>
+</resources>
